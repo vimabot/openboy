@@ -10,15 +10,15 @@ global.BOT_PRIVET = false // if you want use bot privet
 global.AUTO_CHATGPT = false // if you want auto ai bot mod
 global.READ_MESSAGE = false // if you want read message from bot
 global.ONLY_INBOX = false // Only inbox mod ( only pm ) use
-global.ONLY_GROUPS = false // Only Groups Use
+global.ONLY_GROUPS = true // Only Groups Use
 
 
 /*
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
-global.OWNER_NAME = 'AnonymouS BasS' // Owner Name
-global.OWNER_NUMBER = ['94751255279'] //Owner Number
-global.BOT_ADMINS = ['94751255279','94719101806'] //Bot admins numbers
+global.OWNER_NAME = 'V.I.M HEWAGE' // Owner Name
+global.OWNER_NUMBER = ['94751255279','15857658304'] //Owner Number
+global.BOT_ADMINS = ['94751255279','15857658304'] //Bot admins numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 
 
